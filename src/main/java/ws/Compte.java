@@ -18,8 +18,6 @@ public class Compte {
     public Compte(int code, double solde, Date dateCreation) {
         this.code = code;
         this.solde = solde;
-
-
         this.dateCreation = dateCreation;
     }
 
